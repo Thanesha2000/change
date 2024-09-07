@@ -1,0 +1,15 @@
+#colorDiv {
+    width: 200px;
+    height: 200px;
+    background-color: lightgray;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+#colorButton{
+    margin :0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
